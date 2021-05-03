@@ -48,7 +48,7 @@ body {
 <body>
   <div class="topnav">
     <a href="https://simonpastor.com">Home</a>
-    <a href="">Portfolio</a>
+    <a href="https://simonpastor.com/portfolio">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
         <a href="#contact">SimonSays</a>
@@ -65,7 +65,7 @@ body {
     <a class="active" href="https://simonpastor.com/contact">Contact</a>
   </div>
 
-<img src="logo.png?raw=true">
+<img src="logo.png?raw=true" width="384" height="256">
 <center>
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
