@@ -1,6 +1,6 @@
-title: <center> Simon Pastor </center>
-logo: "/images/logo.png?raw=true"
-description: >
+<center> Simon Pastor </center>
+("https://github.com/simonjpastor/simonjpastor.github.io/tree/master/images/logo.png?raw=true")
+<center>
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
   <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
@@ -9,6 +9,4 @@ description: >
   <br><br>
   <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
   <link rel="stylesheet" href="style.css" type="text/css" />
-
-theme: jekyll-theme-minimal
-google_analytics: UA-192273691-1
+</center>
