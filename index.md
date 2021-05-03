@@ -23,7 +23,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 17.72%;
+  width: 18.5%;
   margin:0;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
@@ -55,7 +55,7 @@ body {
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
-      min-width:18.5%;
+      min-width:19%;
       margin:0;
       }
       /* Dropdown content (hidden by default) */
@@ -63,7 +63,7 @@ body {
       display: none;
       position: absolute;
       background-color: #f9f9f9;
-      min-width: 18.6%;
+      min-width: 19%;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       z-index: 1;
       }
