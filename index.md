@@ -91,6 +91,22 @@ body {
   border-radius: 25px;
 }
 
+
+@media screen and (max-width: 600px) {
+  .topnav {position: relative;}
+  .topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+    width:100%;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+
+}
+
 </style>
 </head>
 
