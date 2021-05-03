@@ -109,7 +109,7 @@ body {
          <a href="#">Post-Covid Social Status:Unclear</a>
       </div>
     </div> -->
-    <a href="https://simonpastor.substack.com">SimonSays</a>
+    <a href="https://simonpastor.substack.com">SimonSays1</a>
     <a href="#news">Resume</a>
     <a class="active" href="https://simonpastor.com/contact">Contact</a>
   </div>
