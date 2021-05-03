@@ -66,7 +66,7 @@ body {
   </div>
 
 <center> Simon Pastor </center>
-!("https://github.com/simonjpastor/simonjpastor.github.io/tree/master/images/logo.png?raw=true")
+!("logo.png?raw=true")
 <center>
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
