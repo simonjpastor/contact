@@ -74,8 +74,8 @@ body {
 
 <br>
 
-<img src="logo.png?raw=true" width="300" height="130">
 <center>
+  <img src="logo.png?raw=true" width="500" height="200">
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
   <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
