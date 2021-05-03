@@ -72,7 +72,7 @@ body {
 <br>
 
 <center>
-  <img src="logo.png?raw=true" width="144" height="144">
+  <img src="logo.png?raw=true" width="288" height="288">
   <br>
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
