@@ -111,7 +111,7 @@ body {
     </div> -->
     <a href="https://simonpastor.substack.com">SimonSays</a>
     <a href="#news">Resume</a>
-    <a class="active" href="https://simonpastor.com/contact">Contact</a>
+    <a class="active" href="https://simonpastor.com/contact">Contact1</a>
   </div>
 
 <br>
