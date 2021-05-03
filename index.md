@@ -24,7 +24,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 18.5%;
+  width: 19%;
   margin:0;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
