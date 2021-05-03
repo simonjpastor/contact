@@ -23,7 +23,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  width: 19%;
+  width: 21%;
   margin:0;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
@@ -111,7 +111,7 @@ body {
     </div> -->
     <a href="https://simonpastor.substack.com">SimonSays</a>
     <a href="#news">Resume</a>
-    <a class="active" href="https://simonpastor.com/contact">Contact1</a>
+    <a class="active" href="https://simonpastor.com/contact">Contact</a>
   </div>
 
 <br>
