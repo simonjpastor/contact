@@ -55,7 +55,7 @@ body {
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
-      min-width:19%;
+      min-width:21%;
       margin:0;
       }
       /* Dropdown content (hidden by default) */
