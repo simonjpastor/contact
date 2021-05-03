@@ -65,7 +65,9 @@ body {
     <a class="active" href="https://simonpastor.com/contact">Contact</a>
   </div>
 
-<img src="logo.png?raw=true" width="384" height="256">
+<br>
+
+<img src="logo.png?raw=true" width="300" height="130">
 <center>
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
   <br><br>
