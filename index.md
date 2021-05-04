@@ -208,7 +208,7 @@ input[type=submit]:hover {
   </div>
   <div class="row">
     <div class="column">
-      <img src="logo.png?raw=true" style="width:100%">
+      <img src="logo.png?raw=true" style="width:100%; border-radius: 10%" >
     </div>
     <div class="column">
       <form action="/action_page.php">
