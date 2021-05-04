@@ -100,9 +100,12 @@ body {
   vertical-align: middle;
 }
 .container {
-  margin:auto;
-  position:relative;
-  width: 100%;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
 }
 
 
