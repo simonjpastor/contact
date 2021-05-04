@@ -135,7 +135,8 @@ body {
 <center>
   <img src="logo.png?raw=true" width="288" height="288">
   <br>
-  I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!
+  Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
+  <br> Don't hesitate to reach out!
   <br><br>
   <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
   <br><br>
