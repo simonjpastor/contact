@@ -160,21 +160,21 @@ body {
 </center>
 
 
-<center>
 <div class="container">
   <div class="column">
     <img class="img" src="logo.png?raw=true" width="300" height="300">
   </div>
   <div class="column">
     <br><br>
+    <center>
     <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
     <br><br>
     <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
     <br><br>
     <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
+    </center>
   </div>
 </div>
-</center>
 
 <!-- <center>
 
