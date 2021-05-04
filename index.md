@@ -137,7 +137,9 @@ body {
 Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
   </font>
 </p>
-  <br> <strong>Don't hesitate to reach out!</strong>
+  <font color='#5DADE2'>
+  <strong>Don't hesitate to reach out!</strong>
+</font>
 </center>
 
 <div class="row">
