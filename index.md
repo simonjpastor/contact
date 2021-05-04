@@ -94,6 +94,7 @@ body {
 .column {
   display: inline;
   text-align: center;
+  flex:50%;
 }
 .container {
   margin:auto;
