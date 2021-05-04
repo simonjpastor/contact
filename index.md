@@ -131,12 +131,14 @@ body {
   </div>
 
 <br>
+<center>
 <p style="font-size:22px">
   <font color='#5DADE2'>
 Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
   </font>
 </p>
   <br> <strong>Don't hesitate to reach out!</strong>
+</center>
 
 <div class="row">
   <div class="column">
