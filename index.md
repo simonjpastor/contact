@@ -98,6 +98,7 @@ body {
 .container {
   margin:auto;
   text-align: center;
+  justify-content: center;
 }
 
 
