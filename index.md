@@ -230,7 +230,7 @@ input[type=submit]:hover {
         <input type="text" id="lname" name="lastname" placeholder="Your last name..">
         <label for="country">Country</label>
         <select id="country" name="country">
-          <option value="australia">Australia</option>
+          <option value="australia">France</option>
           <option value="canada">Canada</option>
           <option value="usa">USA</option>
         </select>
