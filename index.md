@@ -99,6 +99,7 @@ body {
 .container {
   margin:auto;
   text-align: center;
+  flex:50%;
 }
 
 
