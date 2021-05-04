@@ -161,7 +161,7 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
     <img class="img" src="logo.png?raw=true" width="300" height="300">
   </div>
   <div class="column">
-    <br><br><br><br>
+    <br><br>
     <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
     <br><br>
     <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
