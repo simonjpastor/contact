@@ -103,6 +103,7 @@ body {
   align-content: center;
   vertical-align: middle;
   position:relative;
+  width: 100%;
 }
 
 
