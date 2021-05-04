@@ -98,10 +98,6 @@ body {
 }
 .container {
   margin:auto;
-  text-align: center;
-  justify-content: center;
-  align-content: center;
-  vertical-align: middle;
   position:relative;
   width: 100%;
 }
