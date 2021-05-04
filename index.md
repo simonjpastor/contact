@@ -131,9 +131,24 @@ body {
   </div>
 
 <br>
+Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
+  <br> Don't hesitate to reach out!
 
-<center>
-  <img src="logo.png?raw=true" width="288" height="288">
+<div class="row">
+  <div class="column">
+    <img src="logo.png?raw=true" width="288" height="288">
+  </div>
+  <div class="column">
+    <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
+    <br><br>
+    <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
+    <br><br>
+    <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
+  </div>
+</div>
+
+<!-- <center>
+
   <br>
   Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
   <br> Don't hesitate to reach out!
@@ -144,6 +159,6 @@ body {
   <br><br>
   <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
   <link rel="stylesheet" href="style.css" type="text/css" />
-</center>
+</center> -->
 
 </body>
