@@ -146,6 +146,12 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+
+  .img {
+    width: 100%;
+    height: 100%
+  }
+
 }
 
 
