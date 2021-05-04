@@ -142,7 +142,7 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
 
 <div class="row">
   <div class="column">
-    <img src="logo.png?raw=true" width="288" height="288">
+    <img class="img" src="logo.png?raw=true" width="288" height="288">
   </div>
   <div class="column">
     <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
