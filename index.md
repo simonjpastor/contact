@@ -158,7 +158,7 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
 <center>
 <div class="container">
   <div class="column">
-    <img class="img" src="logo.png?raw=true" width="288" height="288">
+    <img class="img" src="logo.png?raw=true" width="300" height="300">
   </div>
   <div class="column">
     <br><br><br><br>
