@@ -237,7 +237,6 @@ input[type=submit]:hover {
 </div>
 
 <!-- <center>
-
   <br>
   Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
   <br> Don't hesitate to reach out!
