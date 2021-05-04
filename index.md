@@ -231,13 +231,13 @@ input[type=submit]:hover {
 </div>
 
 <br><br>
-    <center>
-    <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
+
+<a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
     <br><br>
-    <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
+<a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
     <br><br>
-    <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
-    </center>
+<a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
+
 
 <!-- <center>
 
