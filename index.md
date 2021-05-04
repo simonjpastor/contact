@@ -95,6 +95,10 @@ body {
   display: inline;
   text-align: center;
   flex:50%;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  vertical-align: middle;
 }
 .container {
   margin:auto;
