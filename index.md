@@ -192,8 +192,6 @@ body {
   <link rel="stylesheet" href="style.css" type="text/css" />
 </center> -->
 
-</body>
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-192273691-1"></script>
 <script>
@@ -204,3 +202,4 @@ body {
   gtag('config', 'UA-192273691-1');
 </script>
 
+</body>
