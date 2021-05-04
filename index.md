@@ -142,6 +142,8 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
 </font>
 </center>
 
+
+<center>
 <div class="row">
   <div class="column">
     <img class="img" src="logo.png?raw=true" width="288" height="288">
@@ -155,6 +157,7 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
     <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
   </div>
 </div>
+</center>
 
 <!-- <center>
 
