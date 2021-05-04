@@ -203,8 +203,8 @@ input[type=submit]:hover {
 
 <div class="container">
   <div style="text-align:center">
-    <h2>Contact Us</h2>
-    <p>Swing by for a cup of coffee, or leave us a message:</p>
+    <h2>Contact Me</h2>
+    <p>Leave me a message!</p>
   </div>
   <div class="row">
     <div class="column">
