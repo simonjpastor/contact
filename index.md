@@ -92,7 +92,6 @@ body {
 }
 
 .column {
-  width: 100px;
   display: inline-block;
   text-align: center;
 }
