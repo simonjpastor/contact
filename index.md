@@ -147,7 +147,7 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 
-  .img {
+  .responsive {
     width: 100%;
     height: auto;
   }
@@ -214,7 +214,7 @@ input[type=submit]:hover {
   <div class="row">
     <div class="column">
       <center>
-      <img src="logo.png?raw=true" style="width:100%; border-radius: 10%" >
+      <img src="logo.png?raw=true" class="responsive" style="width:100%; border-radius: 10%" >
       <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
       <br><br>
       <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
