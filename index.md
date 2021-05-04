@@ -88,7 +88,7 @@ body {
       }
 
 .img {
-  border-radius: 20px;
+  border-radius: 50%;
 }
 
 .column {
