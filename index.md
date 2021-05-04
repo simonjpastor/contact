@@ -207,12 +207,14 @@ input[type=submit]:hover {
   </div>
   <div class="row">
     <div class="column">
+      <center>
       <img src="logo.png?raw=true" style="width:100%; border-radius: 10%" >
       <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
       <br><br>
       <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
       <br><br>
       <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
+      </center>
     </div>
     <div class="column">
       <form action="/action_page.php">
