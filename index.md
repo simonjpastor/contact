@@ -149,7 +149,7 @@ input[type=submit]:hover {
 
   .img {
     width: 100%;
-    height: 100%
+    height: auto;
   }
 
 }
