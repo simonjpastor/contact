@@ -149,7 +149,7 @@ body {
 <center>
 <p style="font-size:22px">
   <font color='#5DADE2'>
-Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
+    Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
   </font>
 </p>
 <p style="font-size:18px">
