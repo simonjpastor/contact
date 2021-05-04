@@ -99,6 +99,7 @@ body {
   margin:auto;
   text-align: center;
   justify-content: center;
+  align-content: center;
 }
 
 
