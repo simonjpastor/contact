@@ -91,6 +91,16 @@ body {
   border-radius: 20px;
 }
 
+.column {
+  width: 100px;
+  display: inline-block;
+  text-align: left;
+}
+.container {
+  margin:auto;
+  text-align: center;
+}
+
 
 @media screen and (max-width: 600px) {
   .topnav {position: relative;}
@@ -146,7 +156,7 @@ Hey, I'm Simon, an LSE Government and History alumnus passionate about the inter
 
 
 <center>
-<div class="row">
+<div class="container">
   <div class="column">
     <img class="img" src="logo.png?raw=true" width="288" height="288">
   </div>
