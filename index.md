@@ -94,7 +94,7 @@ body {
 .column {
   width: 100px;
   display: inline-block;
-  text-align: left;
+  text-align: center;
 }
 .container {
   margin:auto;
