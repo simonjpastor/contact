@@ -216,7 +216,7 @@ input[type=submit]:hover {
 
 <div class="container">
   <div style="text-align:center">
-    <h2>Contact Me 💭</h2>
+    <center><h2>Contact Me 💭</h2></center>
   </div>
   <div class="row">
     <div class="column">
