@@ -205,16 +205,16 @@ input[type=submit]:hover {
 
 <br>
 <center>
-<p style="font-size:20px">
+<p style="font-size:23px">
   <font color='#5DADE2'>
-  <strong>Pleasereach out for any ideas, projects, feedback or just to say hello!</strong>
+  <strong>Please reach out for any ideas, projects, feedback or just to say hello!</strong>
   </font>
 </p>
 </center>
 
 <div class="container">
   <div style="text-align:center">
-    <p><font size=30><center><strong>Contact Me 💭</strong></center></font></p>
+    <p><font size=25><center><strong>Contact Me 💭</strong></center></font></p>
   </div>
   <div class="row">
     <div class="column">
