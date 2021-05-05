@@ -148,7 +148,7 @@ input[type=submit]:hover {
   }
 
   .responsive {
-    width: 100%;
+    width: 300px;
     height: auto;
   }
 
