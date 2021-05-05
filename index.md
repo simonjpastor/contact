@@ -153,7 +153,8 @@ input[type=submit]:hover {
   }
 
   .img {
-    width: 20%;
+    max-width: 100%;
+    min-width: 300px;
     height: auto;
   }
 
