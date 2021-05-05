@@ -219,7 +219,7 @@ input[type=submit]:hover {
 
 <div class="container">
   <div style="text-align:center">
-    <p style="font-size:22px"><center>Contact Me 💭</center></p>
+    <p style="font-size:30px"><center>Contact Me 💭</center></p>
   </div>
   <div class="row">
     <div class="column">
