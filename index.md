@@ -175,7 +175,7 @@ input[type=submit]:hover {
 
 <body>
   <div class="topnav">
-    <a href="https://simonpastor.com">Home</a>
+    <a href="https://simonpastor.com">Home1</a>
     <a href="https://simonpastor.com/portfolio">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
