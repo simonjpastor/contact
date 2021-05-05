@@ -205,14 +205,9 @@ input[type=submit]:hover {
 
 <br>
 <center>
-<p style="font-size:22px">
+<p style="font-size:20px">
   <font color='#5DADE2'>
-    Hey, I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy.
-  </font>
-</p>
-<p style="font-size:18px">
-  <font color='#5DADE2'>
-  <strong>Don't hesitate to reach out for any ideas, projects, feedback or just to say hello!</strong>
+  <strong>Pleasereach out for any ideas, projects, feedback or just to say hello!</strong>
   </font>
 </p>
 </center>
