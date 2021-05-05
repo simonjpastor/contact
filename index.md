@@ -212,7 +212,7 @@ input[type=submit]:hover {
 </p>
 <p style="font-size:18px">
   <font color='#5DADE2'>
-  <strong>Don't hesitate to reach out!</strong>
+  <strong>Don't hesitate to reach out for any ideas/projects, feedback or just to say hello!</strong>
   </font>
 </p>
 </center>
