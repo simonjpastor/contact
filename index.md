@@ -144,7 +144,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 600px) {
   .container, .column, input[type=submit] {
     width:75%;
-    height: 50%;
+    height: 60%;
     margin-top: 0;
   }
 
