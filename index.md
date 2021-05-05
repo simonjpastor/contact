@@ -152,6 +152,11 @@ input[type=submit]:hover {
     height: auto;
   }
 
+  .responsive {
+    width: 100px;
+    height: auto;
+  }
+
 }
 
 
