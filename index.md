@@ -226,7 +226,7 @@ input[type=submit]:hover {
       <center>
       <img src="logo.png?raw=true" class="responsive" style="width:100%; border-radius: 10%" >
       <a href="https://www.linkedin.com/in/simonpastor/">View My Linkedin Profile</a>
-      <br><br>
+      <br>
       <a href="https://twitter.com/the_simonpastor">Follow me on Twitter 🐦</a>
       <br><br>
       <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
