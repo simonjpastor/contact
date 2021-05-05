@@ -97,7 +97,7 @@ body {
 }
 
 /* Style inputs */
-input[type=text], select, textarea {
+input[type=text], select, textarea, input[type=email]{
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
