@@ -218,6 +218,7 @@ input[type=submit]:hover {
   <div style="text-align:center">
     <h2><center>Contact Me 💭</center></h2>
   </div>
+  <form action="contact.php" method="post">
   <div class="row">
     <div class="column">
       <center>
@@ -243,6 +244,7 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
+</form>
 </div>
 
 <!-- <center>
