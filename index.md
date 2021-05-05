@@ -152,7 +152,7 @@ input[type=submit]:hover {
     height: auto;
   }
 
-  .responsive {
+  .img {
     width: 100px;
     height: auto;
   }
