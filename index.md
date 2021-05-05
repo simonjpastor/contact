@@ -199,7 +199,7 @@ input[type=submit]:hover {
       </div>
     </div> -->
     <a href="https://simonpastor.substack.com">SimonSays</a>
-    <a href="https://simonpastor.substack.com/resume">Resume</a>
+    <a href="https://simonpastor.com/resume">Resume</a>
     <a class="active" href="https://simonpastor.com/contact">Contact</a>
   </div>
 
