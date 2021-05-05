@@ -230,15 +230,13 @@ input[type=submit]:hover {
       </center>
     </div>
     <div class="column">
-      <form action="/contact.php" method="post">
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
-        <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-        <label for="email">Email</label>
-        <input type="text" id="email" name="email" placeholder="Your email..">
-        <label for="subject">Contect</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+      <form action="https://formspree.io/f/mvodzdww" method="POST">
+        <label for="full-name">Full Name</label>
+        <input type="text" id="full-name" name="name" placeholder="Your full name..">
+        <label for="email-address">Email Address</label>
+        <input type="email" id="email-address" name="_replyto" placeholder="Your email..">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Write something.." style="height:170px"></textarea>
         <center><input type="submit" value="Submit"></center>
       </form>
     </div>
