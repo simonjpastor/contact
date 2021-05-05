@@ -143,8 +143,8 @@ input[type=submit]:hover {
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .container, input[type=submit] {
-    width:25%;
-    height: 25%;
+    width:50%;
+    height: 50%;
     margin-top: 0;
   }
 
