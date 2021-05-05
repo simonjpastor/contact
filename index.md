@@ -232,13 +232,13 @@ input[type=submit]:hover {
     <div class="column">
       <form action="https://formspree.io/f/mvodzdww" method="POST">
         <label for="full-name">Full Name</label>
-        <input type="text" id="full-name" name="name" placeholder="Your full name.." required="">
+        <input type="text" id="full-name" name="name" placeholder="Your full name..." required="">
         <label for="email-address">Email Address</label>
         <br>
-        <input type="email" id="email-address" name="_replyto" placeholder="Your email.." required="">
+        <input type="email" id="email-address" name="_replyto" placeholder="Your email..." required="">
         <br>
         <label for="message">Message</label>
-        <textarea id="message" name="message" placeholder="Write something.." style="height:170px" required=""></textarea>
+        <textarea id="message" name="message" placeholder="Write something..." style="height:170px" required=""></textarea>
         <center><input type="submit" value="Submit"></center>
       </form>
     </div>
