@@ -208,7 +208,7 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center">
     <center>
-    <p style="font-size:23px">
+    <p style="font-size:22px">
     <font color='#5DADE2'>
       <strong>Please reach out for any ideas, projects, feedback or just to say hello! 💭</strong>
     </font>
