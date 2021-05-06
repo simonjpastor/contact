@@ -237,7 +237,7 @@ input[type=submit]:hover {
         <br><br>
         <label for="message">Message</label>
         <textarea id="message" name="message" placeholder="Write something..." style="height:170px" required=""></textarea>
-        <center><input type="submit" value="Submit"></center>
+        <center><input type="submit" value="Send"></center>
       </form>
     </div>
   </div>
